@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning web development and data security
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on my coding journey especially on learning web development and data security
-- 📫 How to reach me by whatsapp >> 09635618222
+- 📫 How to reach me is by messaging me in whatsapp >> 09635618222
 
 <!---
 marj-max/marj-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
